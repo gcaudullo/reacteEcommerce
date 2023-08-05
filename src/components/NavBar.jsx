@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { CartWidget } from './CartWidget';
+import logo from "../assets/Logo.png"
 
 
       
@@ -10,7 +11,7 @@ import { CartWidget } from './CartWidget';
 export const NavBar = () => (
         <Navbar bg="primary" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">OK Computers</Navbar.Brand>
+          <Navbar.Brand href="#home"> <img className='logo' src={ logo } alt="carrito" /> OK Computers</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="#home">Inicio</Nav.Link>
             <Nav.Link href="#Laptops">Laptops</Nav.Link>

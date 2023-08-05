@@ -8,3 +8,13 @@
   font-size: medium;
   padding-left: 1rem;
 }
+
+.logo{
+  height: 4rem;
+  border-radius: 2rem;
+}
+
+.ItemListContainer{
+  display: flex;
+  justify-content: center;
+}
