@@ -1,44 +1,33 @@
-import data from "../data/mock_data.json"
 import { useState, useEffect } from 'react';
+import { solicitoProductos } from '../helpers/solicitoProductos';
+import ItemList from './ItemList';
+import { useParams } from 'react-router-dom';
 
 export function ItemListContainer() {
 
     const [productos, setProductos] = useState([]);
-    
-    const solicitoProductos = () => {
-        return new Promise((resolve, reject) => {
-            resolve(data)
-        })
-    }
+    const [titulo, setTitulo] = useState("Productos");
+    const categoria = useParams().categoryId;
+    console.log(categoria);
 
     useEffect(() => {
         solicitoProductos()
             .then((res) => {
-                setProductos(res);
+                if (categoria) {
+                    setProductos(res.filter((prod) => prod.categoria === categoria));
+                    setTitulo(categoria);
+                } else {
+                    setProductos(res);
+                    setTitulo("Productos");
+                }
             })
-    }, [])
+    }, [categoria])
 
 
 
     return (
         <div>
-            {
-                productos.length > 0 &&
-                productos.map((productos) => {
-                    return (
-                        <div key={productos.id} >
-                            <p> {productos.id} </p>
-                            <img src={productos.avatar} alt={productos.first_name} />
-                            <h2>{productos.first_name + " " + productos.last_name} </h2>
-                            <p>{productos.email}</p>
-                        </div>
-                    )
-                })
-
-            }
+            <ItemList productos={productos} titulo={titulo} />
         </div>
-        //la prop debe ser greeting y muestra el mensaje dentro del contenedor con el styling integrado.
-        //importarlo desde App.js y abajo de NavBar.js
-        // <div className='ItemListContainer'>{props.greetings}</div>
     );
 }
