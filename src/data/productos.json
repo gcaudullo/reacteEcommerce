@@ -2,521 +2,586 @@
     {
         "id": 1,
         "nombre": "Apple Ipad 10 9 10th gen wifi 256Gb pink mpqc3ll",
-        "imagen": "../assets/cel-tecno/apple-ipad-10-9-10th-gen-wifi-256gb-pink-mpqc3ll-a-apple-ipad-10-9-10th-gen-wifi-256gb-pink-mpqc3ll-a-959.webp",
+        "imagen": "/img/cel-tecno/apple-ipad-10-9-10th-gen-wifi-256gb-pink-mpqc3ll-a-apple-ipad-10-9-10th-gen-wifi-256gb-pink-mpqc3ll-a-959.webp",
         "alt": "apple-ipad-10-9-10th-gen-wifi-256gb-pink-mpqc3ll",
         "categoria": "Celulares y Tecnologia",
-        "precio": 959
+        "precio": 959,
+        "stock": 10
     },
     {
         "id": 2,
         "nombre": "Apple Watch se 2nd gen gps 44mm starlight temp sense",
-        "imagen": "../assets/cel-tecno/apple-watch-se-2nd-gen-gps-44mm-starlight-aluminum-case-mnte3lla-apple-watch-se-2nd-gen-gps-44mm-starlight-aluminum-case-mnte3lla-479.webp",
+        "imagen": "/img/cel-tecno/apple-watch-se-2nd-gen-gps-44mm-starlight-aluminum-case-mnte3lla-apple-watch-se-2nd-gen-gps-44mm-starlight-aluminum-case-mnte3lla-479.webp",
         "alt": "apple-watch-se-2nd-gen-gps-44mm-starlight",
         "categoria": "Celulares y Tecnologia",
-        "precio": 479
+        "precio": 479,
+        "stock": 10
     },
     {
         "id": 3,
         "nombre": "Apple Watch series 8 gps 41mm midnigh temp sense",
-        "imagen": "../assets/cel-tecno/apple-watch-series-8-gps-41mm-midnight-aluminum-case-mnu73-mnu83-apple-watch-series-8-gps-41mm-midnight-aluminum-case-mnu73-mnu83-649.webp",
+        "imagen": "/img/cel-tecno/apple-watch-series-8-gps-41mm-midnight-aluminum-case-mnu73-mnu83-apple-watch-series-8-gps-41mm-midnight-aluminum-case-mnu73-mnu83-649.webp",
         "alt": "apple-watch-series-8-gps-41mm-midnight",
         "categoria": "Celulares y Tecnologia",
-        "precio": 649
+        "precio": 649,
+        "stock": 10
     },
     {
         "id": 4,
         "nombre": "Cel Samsung Galaxy A04 sm a045mz ds 64Gb",
-        "imagen": "../assets/cel-tecno/cel-samsung-galaxy-a04-sm-a045mz-ds-64gb-green-cel-samsung-galaxy-a04-sm-a045mz-ds-64gb-green-179.webp",
+        "imagen": "/img/cel-tecno/cel-samsung-galaxy-a04-sm-a045mz-ds-64gb-green-cel-samsung-galaxy-a04-sm-a045mz-ds-64gb-green-179.webp",
         "alt": "cel-samsung-galaxy-a04-sm-a045mz-ds-64gb",
         "categoria": "Celulares y Tecnologia",
-        "precio": 179
+        "precio": 179,
+        "stock": 10
     },
     {
         "id": 5,
         "nombre": "Cel Samsung Galaxy A525 8Gb 256Gb",
-        "imagen": "../assets/cel-tecno/cel-samsung-galaxy-a525-8gb-256gb-ds-white-cel-samsung-galaxy-a525-8gb-256gb-ds-white-499.webp",
+        "imagen": "/img/cel-tecno/cel-samsung-galaxy-a525-8gb-256gb-ds-white-cel-samsung-galaxy-a525-8gb-256gb-ds-white-499.webp",
         "alt": "cel-samsung-galaxy-a525-8gb-256gb",
         "categoria": "Celulares y Tecnologia",
-        "precio": 499
+        "precio": 499,
+        "stock": 10
     },
     {
         "id": 6,
         "nombre": "Celular Honor X6 color azul 4Gb 64Gb",
-        "imagen": "../assets/cel-tecno/celular-honor-x6-color-azul-4gb-64gb-celular-honor-x6-color-azul-4gb-64gb-189.webp",
+        "imagen": "/img/cel-tecno/celular-honor-x6-color-azul-4gb-64gb-celular-honor-x6-color-azul-4gb-64gb-189.webp",
         "alt": "celular-honor-x6-color-azul-4gb-64gb",
         "categoria": "Celulares y Tecnologia",
-        "precio": 189
+        "precio": 189,
+        "stock": 10
     },
     {
         "id": 7,
         "nombre": "Celular Huawei Nova 9 128Gb 8Gb black",
-        "imagen": "../assets/cel-tecno/celular-huawei-nova-9-128gb-8gb-black-celular-huawei-nova-9-128gb-8gb-black-539.webp",
+        "imagen": "/img/cel-tecno/celular-huawei-nova-9-128gb-8gb-black-celular-huawei-nova-9-128gb-8gb-black-539.webp",
         "alt": "celular-huawei-nova-9-128gb-8gb-black",
         "categoria": "Celulares y Tecnologia",
-        "precio": 539
+        "precio": 539,
+        "stock": 10
     },
     {
         "id": 8,
         "nombre": "Cel Moto E32 64Gb gris",
-        "imagen": "../assets/cel-tecno/moto-e32-64-gb-gris-4-gb-ram-moto-e32-64-gb-gris-4-gb-ram-189.webp",
+        "imagen": "/img/cel-tecno/moto-e32-64-gb-gris-4-gb-ram-moto-e32-64-gb-gris-4-gb-ram-189.webp",
         "alt": "moto-e32-64-gb-gris",
         "categoria": "Celulares y Tecnologia",
-        "precio": 189
+        "precio": 189,
+        "stock": 10
     },
     {
         "id": 9,
         "nombre": "Cel Samsung Galaxy S20 fe 5g dual sim 128 Gb",
-        "imagen": "../assets/cel-tecno/samsung-galaxy-s20-fe-5g-dual-sim-128-gb-cloud-white-6-gb-ram-samsung-galaxy-s20-fe-5g-dual-sim-128-gb-cloud-white-6-gb-ram-599.webp",
+        "imagen": "/img/cel-tecno/samsung-galaxy-s20-fe-5g-dual-sim-128-gb-cloud-white-6-gb-ram-samsung-galaxy-s20-fe-5g-dual-sim-128-gb-cloud-white-6-gb-ram-599.webp",
         "alt": "samsung-galaxy-s20-fe-5g-dual-sim-128-gb",
         "categoria": "Celulares y Tecnologia",
-        "precio": 599
+        "precio": 599,
+        "stock": 10
     },
     {
         "id": 10,
         "nombre": "Tablet con funda Lenovo tab M7 3rd gen",
-        "imagen": "../assets/cel-tecno/tablet-con-funda-lenovo-tab-m7-3rd-gen-tb-7306f-7-32gb-iron-gray-2gb-tablet-con-funda-lenovo-tab-m7-3rd-gen-tb-7306f-7-32gb-iron-gray-2gb-134.webp",
+        "imagen": "/img/cel-tecno/tablet-con-funda-lenovo-tab-m7-3rd-gen-tb-7306f-7-32gb-iron-gray-2gb-tablet-con-funda-lenovo-tab-m7-3rd-gen-tb-7306f-7-32gb-iron-gray-2gb-134.webp",
         "alt": "tablet-con-funda-lenovo-tab-m7-3rd-gen",
         "categoria": "Celulares y Tecnologia",
-        "precio": 134
+        "precio": 134,
+        "stock": 10
     },
     {
         "id": 11,
         "nombre": "Cel Xiaomi Redmi 10a dual sim 64Gb plata",
-        "imagen": "../assets/cel-tecno/xiaomi-redmi-10a-dual-sim-64-gb-plata-cromada-3-gb-ram-xiaomi-redmi-10a-dual-sim-64-gb-plata-cromada-3-gb-ram-153.webp",
+        "imagen": "/img/cel-tecno/xiaomi-redmi-10a-dual-sim-64-gb-plata-cromada-3-gb-ram-xiaomi-redmi-10a-dual-sim-64-gb-plata-cromada-3-gb-ram-153.webp",
         "alt": "xiaomi-redmi-10a-dual-sim-64-gb-plata",
         "categoria": "Celulares y Tecnologia",
-        "precio": 153
+        "precio": 153,
+        "stock": 10
     },
     {
         "id": 12,
         "nombre": "Cel Xiaomi Redmi 12c 128 4Gb camara dual 50mpx",
-        "imagen": "../assets/cel-tecno/xiaomi-redmi-12c-128-4-gb-camara-dual-50-mpx-5000-mah-gris-xiaomi-redmi-12c-128-4-gb-camara-dual-50-mpx-5000-mah-gris-184.jpg",
+        "imagen": "/img/cel-tecno/xiaomi-redmi-12c-128-4-gb-camara-dual-50-mpx-5000-mah-gris-xiaomi-redmi-12c-128-4-gb-camara-dual-50-mpx-5000-mah-gris-184.jpg",
         "alt": "xiaomi-redmi-12c-128-4-gb-camara-dual-50-mpx-5000-mah",
         "categoria": "Celulares y Tecnologia",
-        "precio": 189
+        "precio": 189,
+        "stock": 10
     },
     {
         "id": 13,
         "nombre": "Cel Xiaomi Redmi Note 11s 5g dual sim 128Gb 4Gb RAM",
-        "imagen": "../assets/cel-tecno/xiaomi-redmi-note-11s-5g-dual-sim-128-gb-midnight-black-4-gb-ram-xiaomi-redmi-note-11s-5g-dual-sim-128-gb-midnight-black-4-gb-ram-329.webp",
+        "imagen": "/img/cel-tecno/xiaomi-redmi-note-11s-5g-dual-sim-128-gb-midnight-black-4-gb-ram-xiaomi-redmi-note-11s-5g-dual-sim-128-gb-midnight-black-4-gb-ram-329.webp",
         "alt": "xiaomi-redmi-note-11s-5g-dual-sim-128-gb-black-4-gb-ram",
         "categoria": "Celulares y Tecnologia",
-        "precio": 329
+        "precio": 329,
+        "stock": 10
     },
     {
         "id": 14,
         "nombre": "Cafetera punktal PK 426",
-        "imagen": "../assets/electrodomesticos/cafetera-punktal-pk-426-caf-semi-automatica-negra-de-filtro-220v-240-cafetera-punktal-pk-426-caf-semi-automatica-negra-de-filtro-220v-240.jpg",
+        "imagen": "/img/electrodomesticos/cafetera-punktal-pk-426-caf-semi-automatica-negra-de-filtro-220v-240-cafetera-punktal-pk-426-caf-semi-automatica-negra-de-filtro-220v-240.jpg",
         "alt": "cafetera-punktal-pk-426",
         "categoria": "Electrodomesticos",
-        "precio": 25
+        "precio": 25,
+        "stock": 10
     },
     {
         "id": 15,
         "nombre": "Cocina Punktal Agile Glass PK Gl5 a gas",
-        "imagen": "../assets/electrodomesticos/cocina-punktal-agile-glass-pk-gl5-gas-envasado-5-hornallas-negra-220v-cocina-punktal-agile-glass-pk-gl5-gas-envasado-5-hornallas-negra-220v.jpg",
+        "imagen": "/img/electrodomesticos/cocina-punktal-agile-glass-pk-gl5-gas-envasado-5-hornallas-negra-220v-cocina-punktal-agile-glass-pk-gl5-gas-envasado-5-hornallas-negra-220v.jpg",
         "alt": "Cocina Punktal Agile Glass PK Gl5 a gas",
         "categoria": "Electrodomesticos",
-        "precio": 352
+        "precio": 352,
+        "stock": 10
     },
     {
         "id": 16,
         "nombre": "Cocina Punktal Coliseum PK 299c a gas 5 hornallas",
-        "imagen": "../assets/electrodomesticos/cocina-punktal-coliseum-pk-299c-gas-5-hornallas-gris-220v-84-litros-cocina-punktal-coliseum-pk-299c-gas-5-hornallas-gris-220v-84-litros.jpg",
+        "imagen": "/img/electrodomesticos/cocina-punktal-coliseum-pk-299c-gas-5-hornallas-gris-220v-84-litros-cocina-punktal-coliseum-pk-299c-gas-5-hornallas-gris-220v-84-litros.jpg",
         "alt": "cocina-punktal-coliseum-pk-299c-gas-5-hornallas",
         "categoria": "Electrodomesticos",
-        "precio": 229
+        "precio": 229,
+        "stock": 10
     },
     {
         "id": 17,
         "nombre": "Cocina Punktal a gas inox",
-        "imagen": "../assets/electrodomesticos/cocina-punktal-s-gas-inox-gl44inox-cocina-punktal-s-gas-inox-gl44inox.jpg",
+        "imagen": "/img/electrodomesticos/cocina-punktal-s-gas-inox-gl44inox-cocina-punktal-s-gas-inox-gl44inox.jpg",
         "alt": "cocina-punktal-s-gas-inox",
         "categoria": "Electrodomesticos",
-        "precio": 125
+        "precio": 125,
+        "stock": 10
     },
     {
         "id": 18,
         "nombre": "Freidora Enxuta sadenxfsa1116",
-        "imagen": "../assets/electrodomesticos/freidora-enxuta-sadenxfsa1116-freidora-enxuta-sadenxfsa1116.jpg",
+        "imagen": "/img/electrodomesticos/freidora-enxuta-sadenxfsa1116-freidora-enxuta-sadenxfsa1116.jpg",
         "alt": "freidora-enxuta-sadenxfsa1116",
         "categoria": "Electrodomesticos",
-        "precio": 159
+        "precio": 159,
+        "stock": 10
     },
     {
         "id": 19,
         "nombre": "Freidora sin aceite Midea 12lt mf cy120a",
-        "imagen": "../assets/electrodomesticos/freidora-sin-aceite-midea-12lt-mf-cy120a-freidora-sin-aceite-midea-12lt-mf-cy120a.jpg",
+        "imagen": "/img/electrodomesticos/freidora-sin-aceite-midea-12lt-mf-cy120a-freidora-sin-aceite-midea-12lt-mf-cy120a.jpg",
         "alt": "freidora-sin-aceite-midea-12lt-mf-cy120a",
         "categoria": "Electrodomesticos",
-        "precio": 219
+        "precio": 219,
+        "stock": 10
     },
     {
         "id": 20,
         "nombre": "Heladera inverter LG-GS66spp",
-        "imagen": "../assets/electrodomesticos/heladera-inverter-lg-gs66spp-platinum-silver-con-freezer-591l-220v-heladera-inverter-lg-gs66spp-platinum-silver-con-freezer-591l-220v.jpg",
+        "imagen": "/img/electrodomesticos/heladera-inverter-lg-gs66spp-platinum-silver-con-freezer-591l-220v-heladera-inverter-lg-gs66spp-platinum-silver-con-freezer-591l-220v.jpg",
         "alt": "heladera-inverter-lg-gs66spp",
         "categoria": "Electrodomesticos",
-        "precio": 1919
+        "precio": 1919,
+        "stock": 10
     },
     {
         "id": 21,
         "nombre": "Heladera inverter no frost Samsung top mount RT48a6684",
-        "imagen": "../assets/electrodomesticos/heladera-inverter-no-frost-samsung-top-mount-rt48a6684-black-doi-con-heladera-inverter-no-frost-samsung-top-mount-rt48a6684-black-doi-con.jpg",
+        "imagen": "/img/electrodomesticos/heladera-inverter-no-frost-samsung-top-mount-rt48a6684-black-doi-con-heladera-inverter-no-frost-samsung-top-mount-rt48a6684-black-doi-con.jpg",
         "alt": "heladera-inverter-no-frost-samsung-top-mount-rt48a6684",
         "categoria": "Electrodomesticos",
-        "precio": 1289
+        "precio": 1289,
+        "stock": 10
     },
     {
         "id": 22,
         "nombre": "Jarra Electrica Enxuta sdaenxj5151",
-        "imagen": "../assets/electrodomesticos/jarra-electrica-enxuta-sdaenxj5151-jarra-electrica-enxuta-sdaenxj5151.jpg",
+        "imagen": "/img/electrodomesticos/jarra-electrica-enxuta-sdaenxj5151-jarra-electrica-enxuta-sdaenxj5151.jpg",
         "alt": "jarra-electrica-enxuta-sdaenxj5151",
         "categoria": "Electrodomesticos",
-        "precio": 36
+        "precio": 36,
+        "stock": 10
     },
     {
         "id": 23,
         "nombre": "Lavarropas LG 19kgs carga superior wt19bsb",
-        "imagen": "../assets/electrodomesticos/lavarropas-lg-19-kgs-carga-superior-wt19bsb-lavarropas-lg-19-kgs-carga-superior-wt19bsb.jpg",
+        "imagen": "/img/electrodomesticos/lavarropas-lg-19-kgs-carga-superior-wt19bsb-lavarropas-lg-19-kgs-carga-superior-wt19bsb.jpg",
         "alt": "lavarropas-lg-19-kgs-carga-superior-wt19bsb",
         "categoria": "Electrodomesticos",
-        "precio": 890
+        "precio": 890,
+        "stock": 10
     },
     {
         "id": 24,
         "nombre": "Microondas Enxuta moenx0325dg",
-        "imagen": "../assets/electrodomesticos/microondas-enxuta-moenx0325dg-microondas-enxuta-moenx0325dg.jpg",
+        "imagen": "/img/electrodomesticos/microondas-enxuta-moenx0325dg-microondas-enxuta-moenx0325dg.jpg",
         "alt": "microondas-enxuta-moenx0325dg",
         "categoria": "Electrodomesticos",
-        "precio": 159
+        "precio": 159,
+        "stock": 10
     },
     {
         "id": 25,
         "nombre": "Microondas Grill Enxuta moenx0323dgi acero inox",
-        "imagen": "../assets/electrodomesticos/microondas-grill-enxuta-moenx0323dgi-acero-inox-23l-microondas-grill-enxuta-moenx0323dgi-acero-inox-23l.jpg",
+        "imagen": "/img/electrodomesticos/microondas-grill-enxuta-moenx0323dgi-acero-inox-23l-microondas-grill-enxuta-moenx0323dgi-acero-inox-23l.jpg",
         "alt": "microondas-grill-enxuta-moenx0323dgi-acero-inox",
         "categoria": "Electrodomesticos",
-        "precio": 220
+        "precio": 220,
+        "stock": 10
     },
     {
         "id": 26,
         "nombre": "Microondas Midea 20l espejado mmdv07s2dg",
-        "imagen": "../assets/electrodomesticos/microondas-midea-20l-espejado-mmdv07s2dg-b-microondas-midea-20l-espejado-mmdv07s2dg-b.jpg",
+        "imagen": "/img/electrodomesticos/microondas-midea-20l-espejado-mmdv07s2dg-b-microondas-midea-20l-espejado-mmdv07s2dg-b.jpg",
         "alt": "microondas-midea-20l-espejado-mmdv07s2dg",
         "categoria": "Electrodomesticos",
-        "precio": 129
+        "precio": 129,
+        "stock": 10
     },
     {
         "id": 27,
         "nombre": "Philips jarra electrica hd9318",
-        "imagen": "../assets/electrodomesticos/philips-jarra-electrica-hd9318-20-philips-jarra-electrica-hd9318-20.jpg",
+        "imagen": "/img/electrodomesticos/philips-jarra-electrica-hd9318-20-philips-jarra-electrica-hd9318-20.jpg",
         "alt": "philips-jarra-electrica-hd9318",
         "categoria": "Electrodomesticos",
-        "precio": 59
+        "precio": 59,
+        "stock": 10
     },
     {
         "id": 28,
         "nombre": "Plancha a vapor Enxuta sdaenxp284",
-        "imagen": "../assets/electrodomesticos/plancha-a-vapor-enxuta-sdaenxp284-plancha-a-vapor-enxuta-sdaenxp284.jpg",
+        "imagen": "/img/electrodomesticos/plancha-a-vapor-enxuta-sdaenxp284-plancha-a-vapor-enxuta-sdaenxp284.jpg",
         "alt": "plancha-a-vapor-enxuta-sdaenxp284",
         "categoria": "Electrodomesticos",
-        "precio": 99
+        "precio": 99,
+        "stock": 10
     },
     {
         "id": 29,
         "nombre": "Refrigerador Enxuta renx24280fhs",
-        "imagen": "../assets/electrodomesticos/refrigerador-enxuta-renx24280fhs-refrigerador-enxuta-renx24280fhs.webp",
+        "imagen": "/img/electrodomesticos/refrigerador-enxuta-renx24280fhs-refrigerador-enxuta-renx24280fhs.webp",
         "alt": "refrigerador-enxuta-renx24280fhs",
         "categoria": "Electrodomesticos",
-        "precio": 475
+        "precio": 475,
+        "stock": 10
     },
     {
         "id": 30,
         "nombre": "Samsung refrigerador frio seco 430 lts RT44a6640b1",
-        "imagen": "../assets/electrodomesticos/samsung-refrigerador-frio-seco-430-lts-rt44a6640b1-samsung-refrigerador-frio-seco-430-lts-rt44a6640b1.jpg",
+        "imagen": "/img/electrodomesticos/samsung-refrigerador-frio-seco-430-lts-rt44a6640b1-samsung-refrigerador-frio-seco-430-lts-rt44a6640b1.jpg",
         "alt": "samsung-refrigerador-frio-seco-430-lts-rt44a6640b1",
         "categoria": "Electrodomesticos",
-        "precio": 1399
+        "precio": 1399,
+        "stock": 10
     },
     {
         "id": 31,
         "nombre": "Termotanque Enxuta 25 litros",
-        "imagen": "../assets/electrodomesticos/termotanque-enxuta-25-litros-tenx1025-termotanque-enxuta-25-litros-tenx1025.jpg",
+        "imagen": "/img/electrodomesticos/termotanque-enxuta-25-litros-tenx1025-termotanque-enxuta-25-litros-tenx1025.jpg",
         "alt": "termotanque-enxuta-25-litros",
         "categoria": "Electrodomesticos",
-        "precio": 115
+        "precio": 115,
+        "stock": 10
     },
     {
         "id": 32,
         "nombre": "Apple Macbook air 13' m2 8gb RAM 256gb SSD silver",
-        "imagen": "../assets/notebooks/apple-macbook-air-13-6-m2-8gb-256gb-silver-mlxy3lla-apple-macbook-air-13-6-m2-8gb-256gb-silver-mlxy3lla.jpg",
+        "imagen": "/img/notebooks/apple-macbook-air-13-6-m2-8gb-256gb-silver-mlxy3lla-apple-macbook-air-13-6-m2-8gb-256gb-silver-mlxy3lla.jpg",
         "alt": "apple-macbook-air-13-6-m2-8gb-256gb-silver",
         "categoria": "Notebooks",
-        "precio": 2000
+        "precio": 2000,
+        "stock": 10
     },
     {
         "id": 33,
         "nombre": "Apple Macbook air 13' m2 8gb RAM 256gb SSD Gris",
-        "imagen": "../assets/notebooks/apple-macbook-air-13-6-m2-8gb-256gb-sp-gray-mlxw3lla-apple-macbook-air-13-6-m2-8gb-256gb-sp-gray-mlxw3lla.jpg",
+        "imagen": "/img/notebooks/apple-macbook-air-13-6-m2-8gb-256gb-sp-gray-mlxw3lla-apple-macbook-air-13-6-m2-8gb-256gb-sp-gray-mlxw3lla.jpg",
         "alt": "apple-macbook-air-13-6-m2-8gb-256gb-sp-gray",
         "categoria": "Notebooks",
-        "precio": 2000
+        "precio": 2000,
+        "stock": 10
     },
     {
         "id": 34,
         "nombre": "ASUS Vivobook m513ia bq322t",
-        "imagen": "../assets/notebooks/asus-vivobook-m513ia-bq322t-asus-vivobook-m513ia-bq322t.jpg",
+        "imagen": "/img/notebooks/asus-vivobook-m513ia-bq322t-asus-vivobook-m513ia-bq322t.jpg",
         "alt": "asus-vivobook-m513ia",
         "categoria": "Notebooks",
-        "precio": 800
+        "precio": 800,
+        "stock": 10
     },
     {
         "id": 35,
         "nombre": "Gateway Ultra Slim gwtn141 FHD Core i3 6GB RAM 128GB SSD Win10 Blue",
-        "imagen": "../assets/notebooks/gateway-ultra-slim-gwtn141-6bl-14-1-fhd-i3-4gb-128gb-w10-blue-gateway-ultra-slim-gwtn141-6bl-14-1-fhd-i3-4gb-128gb-w10-blue.jpg",
+        "imagen": "/img/notebooks/gateway-ultra-slim-gwtn141-6bl-14-1-fhd-i3-4gb-128gb-w10-blue-gateway-ultra-slim-gwtn141-6bl-14-1-fhd-i3-4gb-128gb-w10-blue.jpg",
         "alt": "gateway-ultra-slim-gwtn141-6bl-14-1-fhd-i3-4gb-128gb-w10-blue",
         "categoria": "Notebooks",
-        "precio": 600
+        "precio": 600,
+        "stock": 10
     },
     {
         "id": 36,
         "nombre": "HP-14\" dq2088wm HD Core i5 8GB RAM 256GB SSD Win10Home",
-        "imagen": "../assets/notebooks/hp-14-dq2088wm-14-hd-i5-8gb-256gb-ssd-w10h-hp-14-dq2088wm-14-hd-i5-8gb-256gb-ssd-w10h.jpg",
+        "imagen": "/img/notebooks/hp-14-dq2088wm-14-hd-i5-8gb-256gb-ssd-w10h-hp-14-dq2088wm-14-hd-i5-8gb-256gb-ssd-w10h.jpg",
         "alt": "hp-14-dq2088wm-14-hd-i5-8gb-256gb-ssd-w10h",
         "categoria": "Notebooks",
-        "precio": 800
+        "precio": 800,
+        "stock": 10
     },
     {
         "id": 37,
         "nombre": "HP-14\" dq2088wm HD Core i3 8GB RAM 256GB SSD Win10",
-        "imagen": "../assets/notebooks/hp-14-dq2089wm-14-hd-i3-8gb-256gb-ssd-w10-camo-refurbished-hp-14-dq2089wm-14-hd-i3-8gb-256gb-ssd-w10-camo-refurbished.jpg",
+        "imagen": "/img/notebooks/hp-14-dq2089wm-14-hd-i3-8gb-256gb-ssd-w10-camo-refurbished-hp-14-dq2089wm-14-hd-i3-8gb-256gb-ssd-w10-camo-refurbished.jpg",
         "alt": "hp-14-dq2089wm-14-hd-i3-8gb-256gb-ssd-w10-camo-refurbished",
         "categoria": "Notebooks",
-        "precio": 659
+        "precio": 659,
+        "stock": 10
     },
     {
         "id": 38,
         "nombre": "HP-15\" dy2061ms FHD Core i5 12GB RAM 256GB SSD Win11",
-        "imagen": "../assets/notebooks/hp-15-dy2061ms-15-6-i5-12gb-256gb-ssd-w11-hp-15-dy2061ms-15-6-i5-12gb-256gb-ssd-w11.jpg",
+        "imagen": "/img/notebooks/hp-15-dy2061ms-15-6-i5-12gb-256gb-ssd-w11-hp-15-dy2061ms-15-6-i5-12gb-256gb-ssd-w11.jpg",
         "alt": "hp-15-dy2061ms-15-6-i5-12gb-256gb-ssd-w11",
         "categoria": "Notebooks",
-        "precio": 900
+        "precio": 900,
+        "stock": 10
     },
     {
         "id": 39,
         "nombre": "Lenovo 15\" FHD Core i5 8GB RAM 512GB SSD Win10h",
-        "imagen": "../assets/notebooks/lenovo-ip-1-14igl7-14-hd-n5030-4gb-128gb-emmc-w11-lenovo-ip-1-14igl7-14-hd-n5030-4gb-128gb-emmc-w11.jpg",
+        "imagen": "/img/notebooks/lenovo-ip-1-14igl7-14-hd-n5030-4gb-128gb-emmc-w11-lenovo-ip-1-14igl7-14-hd-n5030-4gb-128gb-emmc-w11.jpg",
         "alt": "lenovo-ip-1-14igl7-14-hd-n5030-4gb-128gb-emmc-w11",
         "categoria": "Notebooks",
-        "precio": 2000
+        "precio": 2000,
+        "stock": 10
     },
     {
         "id": 40,
         "nombre": "Apple Macbook PRO 13\" m2 8gb RAM 256gb SSD",
-        "imagen": "../assets/notebooks/macbook-pro-13-3-retina-apple-m2-256-gb-ssd-8-gb-macbook-pro-13-3-retina-apple-m2-256-gb-ssd-8-gb.jpg",
+        "imagen": "/img/notebooks/macbook-pro-13-3-retina-apple-m2-256-gb-ssd-8-gb-macbook-pro-13-3-retina-apple-m2-256-gb-ssd-8-gb.jpg",
         "alt": "macbook-pro-13-3-retina-apple-m2-256-gb-ssd-8-gb",
         "categoria": "Notebooks",
-        "precio": 1750
+        "precio": 1750,
+        "stock": 10
     },
     {
         "id": 41,
         "nombre": "ASUS 14\" m2 FHD Core i3 4gb RAM 128gb SSD Win10",
-        "imagen": "../assets/notebooks/notebook-asus-14-core-i3-128-gb-ssd-4-gb-ram-windows-notebook-asus-14-core-i3-128-gb-ssd-4-gb-ram-windows.jpg",
+        "imagen": "/img/notebooks/notebook-asus-14-core-i3-128-gb-ssd-4-gb-ram-windows-notebook-asus-14-core-i3-128-gb-ssd-4-gb-ram-windows.jpg",
         "alt": "notebook-asus-14-core-i3-128-gb-ssd-4-gb-ram-windows",
         "categoria": "Notebooks",
-        "precio": 650
+        "precio": 650,
+        "stock": 10
     },
     {
         "id": 42,
         "nombre": "ASUS 14\" m2 FHD 8gb RAM 128gb SSD Win10",
-        "imagen": "../assets/notebooks/notebook-asus-14-fhd-i3-128-gb-ssd-8-gb-ram-windows-10-notebook-asus-14-fhd-i3-128-gb-ssd-8-gb-ram-windows-10.jpg",
+        "imagen": "/img/notebooks/notebook-asus-14-fhd-i3-128-gb-ssd-8-gb-ram-windows-10-notebook-asus-14-fhd-i3-128-gb-ssd-8-gb-ram-windows-10.jpg",
         "alt": "notebook-asus-14-fhd-i3-128-gb-ssd-8-gb-ram-windows-10",
         "categoria": "Notebooks",
-        "precio": 700
+        "precio": 700,
+        "stock": 10
     },
     {
         "id": 43,
         "nombre": "ASUS 15\" m2 OLED Core i5 8gb RAM 256gb SSD Win10",
-        "imagen": "../assets/notebooks/notebook-asus-15-6-pantalla-oled-i5-256gb-ssd-8-gb-ram-k513ea-l12061t-notebook-asus-15-6-pantalla-oled-i5-256gb-ssd-8-gb-ram-k513ea-l12061t.jpg",
+        "imagen": "/img/notebooks/notebook-asus-15-6-pantalla-oled-i5-256gb-ssd-8-gb-ram-k513ea-l12061t-notebook-asus-15-6-pantalla-oled-i5-256gb-ssd-8-gb-ram-k513ea-l12061t.jpg",
         "alt": "notebook-asus-15-6-pantalla-oled-i5-256gb-ssd-8-gb-ram-k513ea",
         "categoria": "Notebooks",
-        "precio": 1000
+        "precio": 1000,
+        "stock": 10
     },
     {
         "id": 44,
         "nombre": "DELL 15\" m2 FHD Core i5 8gb RAM 256gb SSD Win10",
-        "imagen": "../assets/notebooks/notebook-dell-15-6-fhd-ryzen-5-256gb-ssd-8gb-windows-10-notebook-dell-15-6-fhd-ryzen-5-256gb-ssd-8gb-windows-10.jpg",
+        "imagen": "/img/notebooks/notebook-dell-15-6-fhd-ryzen-5-256gb-ssd-8gb-windows-10-notebook-dell-15-6-fhd-ryzen-5-256gb-ssd-8gb-windows-10.jpg",
         "alt": "notebook-dell-15-6-fhd-ryzen-5-256gb-ssd-8gb-windows-10",
         "categoria": "Notebooks",
-        "precio": 900
+        "precio": 900,
+        "stock": 10
     },
     {
         "id": 45,
         "nombre": "Gateway 15\" FHD Ryzen 7 8GB RAM 512GB SSD Win11 (Blue)",
-        "imagen": "../assets/notebooks/notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11-blue-notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11-blue.jpg",
+        "imagen": "/img/notebooks/notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11-blue-notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11-blue.jpg",
         "alt": "notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11-blue",
         "categoria": "Notebooks",
-        "precio": 550
+        "precio": 550,
+        "stock": 10
     },
     {
         "id": 46,
         "nombre": "Gateway 15\" FHD Ryzen 7 8GB RAM 512GB SSD Win11",
-        "imagen": "../assets/notebooks/notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11-notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11.jpg",
+        "imagen": "/img/notebooks/notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11-notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11.jpg",
         "alt": "notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11",
         "categoria": "Notebooks",
-        "precio": 600
+        "precio": 600,
+        "stock": 10
     },
     {
         "id": 47,
         "nombre": "Lenovo 15\" FHD Core i5 8GB RAM 512GB SSD Win10h",
-        "imagen": "../assets/notebooks/notebook-lenovo-ip-3-15itl6-i3-1115g4-8gb-512gb-w10h-82h80080lm-notebook-lenovo-ip-3-15itl6-i3-1115g4-8gb-512gb-w10h-82h80080lm.jpg",
+        "imagen": "/img/notebooks/notebook-lenovo-ip-3-15itl6-i3-1115g4-8gb-512gb-w10h-82h80080lm-notebook-lenovo-ip-3-15itl6-i3-1115g4-8gb-512gb-w10h-82h80080lm.jpg",
         "alt": "notebook-lenovo-ip-3-15itl6-i3-1115g4-8gb-512gb-w10h",
         "categoria": "Notebooks",
-        "precio": 1100
+        "precio": 1100,
+        "stock": 10
     },
     {
         "id": 48,
         "nombre": "Lenovo 15\" FHD Core i5 16GB RAM 256GB SSD Win11",
-        "imagen": "../assets/notebooks/notebook-lenovo-ip-5-15itl05-i5-1135g7-16gb-256gb-mx450-82fg00velm-notebook-lenovo-ip-5-15itl05-i5-1135g7-16gb-256gb-mx450-82fg00velm.jpg",
+        "imagen": "/img/notebooks/notebook-lenovo-ip-5-15itl05-i5-1135g7-16gb-256gb-mx450-82fg00velm-notebook-lenovo-ip-5-15itl05-i5-1135g7-16gb-256gb-mx450-82fg00velm.jpg",
         "alt": "notebook-lenovo-ip-5-15itl05-i5-1135g7-16gb-256gb-mx450",
         "categoria": "Notebooks",
-        "precio": 900
+        "precio": 900,
+        "stock": 10
     },
     {
         "id": 49,
         "nombre": "Amazon Echo Dot 5th gen con asistente virtual alexa charcoal",
-        "imagen": "../assets/tv-video/amazon-echo-dot-5th-gen-con-asistente-virtual-alexa-charcoal-110v-240v-amazon-echo-dot-5th-gen-con-asistente-virtual-alexa-charcoal-110v-240v.jpg",
+        "imagen": "/img/tv-video/amazon-echo-dot-5th-gen-con-asistente-virtual-alexa-charcoal-110v-240v-amazon-echo-dot-5th-gen-con-asistente-virtual-alexa-charcoal-110v-240v.jpg",
         "alt": "amazon-echo-dot-5th-gen-con-asistente-virtual-alexa-charcoal-110v-240v",
         "categoria": "TV y Audio",
-        "precio": 99
+        "precio": 99,
+        "stock": 10
     },
     {
         "id": 50,
         "nombre": "Barra de Sonido lg sp2 barra de sonido lg sp2",
-        "imagen": "../assets/tv-video/barra-de-sonido-lg-sp2-barra-de-sonido-lg-sp2.jpg",
+        "imagen": "/img/tv-video/barra-de-sonido-lg-sp2-barra-de-sonido-lg-sp2.jpg",
         "alt": "barra-de-sonido-lg-sp2-barra-de-sonido-lg-sp2",
         "categoria": "TV y Audio",
-        "precio": 319
+        "precio": 319,
+        "stock": 10
     },
     {
         "id": 51,
         "nombre": "Enxuta smart tv 24\" ledenx1224d1k",
-        "imagen": "../assets/tv-video/enxuta-smart-tv-24-ledenx1224d1k-enxuta-smart-tv-24-ledenx1224d1k.jpg",
+        "imagen": "/img/tv-video/enxuta-smart-tv-24-ledenx1224d1k-enxuta-smart-tv-24-ledenx1224d1k.jpg",
         "alt": "enxuta-smart-tv-24-ledenx1224d1k",
         "categoria": "TV y Audio",
-        "precio": 134
+        "precio": 134,
+        "stock": 10
     },
     {
         "id": 52,
         "nombre": "JBL wave 300 tws headphone truly wireless black",
-        "imagen": "../assets/tv-video/jbl-wave-300-tws-headphone-truly-wireless-black-jbl-wave-300-tws-headphone-truly-wireless-black.jpg",
+        "imagen": "/img/tv-video/jbl-wave-300-tws-headphone-truly-wireless-black-jbl-wave-300-tws-headphone-truly-wireless-black.jpg",
         "alt": "jbl-wave-300-tws-headphone",
         "categoria": "TV y Audio",
-        "precio": 89
+        "precio": 89,
+        "stock": 10
     },
     {
         "id": 53,
         "nombre": "Minicomponente LG Cl88",
-        "imagen": "../assets/tv-video/minicomponente-lg-cl88-minicomponente-lg-cl88.jpg",
+        "imagen": "/img/tv-video/minicomponente-lg-cl88-minicomponente-lg-cl88.jpg",
         "alt": "minicomponente-lg-cl88-minicomponente-lg-cl88",
         "categoria": "TV y Audio",
-        "precio": 799
+        "precio": 799,
+        "stock": 10
     },
     {
         "id": 54,
         "nombre": "Minicomponente LG Xboom Cl65",
-        "imagen": "../assets/tv-video/minicomponente-lg-xboom-cl65-minicomponente-lg-xboom-cl65.jpg",
+        "imagen": "/img/tv-video/minicomponente-lg-xboom-cl65-minicomponente-lg-xboom-cl65.jpg",
         "alt": "minicomponente-lg-xboom-cl65n",
         "categoria": "TV y Audio",
-        "precio": 449
+        "precio": 449,
+        "stock": 10
     },
     {
         "id": 55,
         "nombre": "Nintendo Switch Oled 64gb",
-        "imagen": "../assets/tv-video/nintendo-switch-oled-64gb-standard-color-rojo-neon-azul-neon-y-negro-nintendo-switch-oled-64gb-standard-color-rojo-neon-azul-neon-y-negro.jpg",
+        "imagen": "/img/tv-video/nintendo-switch-oled-64gb-standard-color-rojo-neon-azul-neon-y-negro-nintendo-switch-oled-64gb-standard-color-rojo-neon-azul-neon-y-negro.jpg",
         "alt": "nintendo-switch-oled-64gb",
         "categoria": "TV y Audio",
-        "precio": 650
+        "precio": 650,
+        "stock": 10
     },
     {
         "id": 56,
         "nombre": "Parlante JBL flip 6 portatil bluetooth potencia 20w",
-        "imagen": "../assets/tv-video/parlante-jbl-flip-6-portatil-bluetooth-potencia-20w-amv-parlante-jbl-flip-6-portatil-bluetooth-potencia-20w-amv.jpg",
+        "imagen": "/img/tv-video/parlante-jbl-flip-6-portatil-bluetooth-potencia-20w-amv-parlante-jbl-flip-6-portatil-bluetooth-potencia-20w-amv.jpg",
         "alt": "parlante-jbl-flip-6-portatil-bluetooth-potencia-20w",
         "categoria": "TV y Audio",
-        "precio": 144
+        "precio": 144,
+        "stock": 10
     },
     {
         "id": 57,
         "nombre": "Smart TV led Xiaomi l32m6 6a android tv",
-        "imagen": "../assets/tv-video/smart-tv-led-xiaomi-l32m6-6a-android-tv-google-asitente-smart-tv-led-xiaomi-l32m6-6a-android-tv-google-asitente.jpg",
+        "imagen": "/img/tv-video/smart-tv-led-xiaomi-l32m6-6a-android-tv-google-asitente-smart-tv-led-xiaomi-l32m6-6a-android-tv-google-asitente.jpg",
         "alt": "smart-tv-led-xiaomi-l32m6-6a-android-tv",
         "categoria": "TV y Audio",
-        "precio": 289
+        "precio": 289,
+        "stock": 10
     },
     {
         "id": 58,
         "nombre": "Smart TV LG 42\" oled oled42c2psa",
-        "imagen": "../assets/tv-video/smart-tv-lg-42-oled-oled42c2psa-smart-tv-lg-42-oled-oled42c2psa.jpg",
+        "imagen": "/img/tv-video/smart-tv-lg-42-oled-oled42c2psa-smart-tv-lg-42-oled-oled42c2psa.jpg",
         "alt": "smart-tv-lg-42-oled-oled42c2psa",
         "categoria": "TV y Audio",
-        "precio": 559
+        "precio": 559,
+        "stock": 10
     },
     {
         "id": 59,
         "nombre": "Smart TV LG 55\" oled oled55c2psa",
-        "imagen": "../assets/tv-video/smart-tv-lg-55-oled55a2psa-ultra-hd-4k-web-os-oled-smart-tv-lg-55-oled55a2psa-ultra-hd-4k-web-os-oled.jpg",
+        "imagen": "/img/tv-video/smart-tv-lg-55-oled55a2psa-ultra-hd-4k-web-os-oled-smart-tv-lg-55-oled55a2psa-ultra-hd-4k-web-os-oled.jpg",
         "alt": "smart-tv-lg-55-oled-oled55c2psa",
         "categoria": "TV y Audio",
-        "precio": 2849
+        "precio": 2849,
+        "stock": 10
     },
     {
         "id": 60,
         "nombre": "Smart TV LG AI thinq 50nano75spa led 4k 50\"",
-        "imagen": "../assets/tv-video/smart-tv-lg-ai-thinq-50nano75spa-led-4k-50-100v-240v-smart-tv-lg-ai-thinq-50nano75spa-led-4k-50-100v-240v.jpg",
+        "imagen": "/img/tv-video/smart-tv-lg-ai-thinq-50nano75spa-led-4k-50-100v-240v-smart-tv-lg-ai-thinq-50nano75spa-led-4k-50-100v-240v.jpg",
         "alt": "smart-tv-lg-ai-thinq-50nano75spa-led-4k-50",
         "categoria": "TV y Audio",
-        "precio": 849
+        "precio": 849,
+        "stock": 10
     },
     {
         "id": 61,
         "nombre": "Smart TV Samsung 43\" 4k UHD un43bu80000",
-        "imagen": "../assets/tv-video/smart-tv-samsung-43-4k-uhd-control-con-comando-de-voz-un43bu80000-smart-tv-samsung-43-4k-uhd-control-con-comando-de-voz-un43bu80000.jpg",
+        "imagen": "/img/tv-video/smart-tv-samsung-43-4k-uhd-control-con-comando-de-voz-un43bu80000-smart-tv-samsung-43-4k-uhd-control-con-comando-de-voz-un43bu80000.jpg",
         "alt": "smart-tv-samsung-43-4k-uhd",
         "categoria": "TV y Audio",
-        "precio": 497
+        "precio": 497,
+        "stock": 10
     },
     {
         "id": 62,
         "nombre": "Smart TV Samsung 65\" 4k UHD led un65bu80000",
-        "imagen": "../assets/tv-video/smart-tv-samsung-crystal-uhd-un65bu8000gxzd-led-4k-65-100v-240v-smart-tv-samsung-crystal-uhd-un65bu8000gxzd-led-4k-65-100v-240v.jpg",
+        "imagen": "/img/tv-video/smart-tv-samsung-crystal-uhd-un65bu8000gxzd-led-4k-65-100v-240v-smart-tv-samsung-crystal-uhd-un65bu8000gxzd-led-4k-65-100v-240v.jpg",
         "alt": "smart-tv-samsung-crystal-uhd-un65bu8000gxzd-led-4k-65",
         "categoria": "TV y Audio",
-        "precio": 1235
+        "precio": 1235,
+        "stock": 10
     },
     {
         "id": 63,
         "nombre": "Smart TV Xiaomi mi 50\" led 4k",
-        "imagen": "../assets/tv-video/smart-tv-xiaomi-mi-tv-p1-50-led-4k-50-100v-240v-smart-tv-xiaomi-mi-tv-p1-50-led-4k-50-100v-240v.jpg",
+        "imagen": "/img/tv-video/smart-tv-xiaomi-mi-tv-p1-50-led-4k-50-100v-240v-smart-tv-xiaomi-mi-tv-p1-50-led-4k-50-100v-240v.jpg",
         "alt": "smart-tv-xiaomi-mi-tv-p1-50-led-4k",
         "categoria": "TV y Audio",
-        "precio": 599
+        "precio": 599,
+        "stock": 10
     },
     {
         "id": 64,
         "nombre": "Sony Playstation 5 825Gb FIFA 23 bundle color blanco y negro",
-        "imagen": "../assets/tv-video/sony-playstation-5-825gb-fifa-23-bundle-color-blanco-y-negro-sony-playstation-5-825gb-fifa-23-bundle-color-blanco-y-negro.jpg",
+        "imagen": "/img/tv-video/sony-playstation-5-825gb-fifa-23-bundle-color-blanco-y-negro-sony-playstation-5-825gb-fifa-23-bundle-color-blanco-y-negro.jpg",
         "alt": "sony-playstation-5-825gb-fifa-23-bundle-color-blanco-y-negro",
         "categoria": "TV y Audio",
-        "precio": 1200
+        "precio": 1200,
+        "stock": 10
     },
     {
         "id": 65,
         "nombre": "Xiaomi TV 65\"",
-        "imagen": "../assets/tv-video/xiaomi-tv-p1e-65-lm-xiaomi-tv-p1e-65-lm.jpg",
+        "imagen": "/img/tv-video/xiaomi-tv-p1e-65-lm-xiaomi-tv-p1e-65-lm.jpg",
         "alt": "xiaomi-tv-p1e-65-lm",
         "categoria": "TV y Audio",
-        "precio": 899
+        "precio": 899,
+        "stock": 10
     }
 ]

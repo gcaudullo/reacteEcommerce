@@ -16,5 +16,20 @@
 
 .ItemListContainer{
   display: flex;
-  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.ItemListTitle {
+  margin-bottom: 10px; 
+}
+
+.ItemContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; 
+}
+
+.itemCount span{
+  padding: 1rem;
 }

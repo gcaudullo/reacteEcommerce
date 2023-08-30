@@ -3,11 +3,12 @@ import { solicitoProductos } from '../helpers/solicitoProductos';
 import ItemList from './ItemList';
 import { useParams } from 'react-router-dom';
 
+
 export function ItemListContainer() {
 
     const [productos, setProductos] = useState([]);
     const [titulo, setTitulo] = useState("Productos");
-    const categoria = useParams().categoryId;
+    const categoria = useParams().id;
     console.log(categoria);
 
     useEffect(() => {
