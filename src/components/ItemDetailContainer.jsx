@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom';
 import { solicitarItemPorId } from '../helpers/solicitoProductos';
 import ItemDetail from './ItemDetail';
+import Container from 'react-bootstrap/Container';
 
 
 const ItemDetailContainer = () => {
@@ -19,10 +20,10 @@ const ItemDetailContainer = () => {
 
 
     return (
-        <div>
+        <Container>
             <h1>Detalle</h1>
             {item && <ItemDetail item={item} />}
-        </div>
+        </Container>
     )
 }
 

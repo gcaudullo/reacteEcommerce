@@ -20,9 +20,10 @@ export const NavBar = () => (
           <Nav className="me-auto">
             <Link className='nav-link' to="/">Inicio</Link>
             {[...uniqueCategories].map(category => (
-              <Link className='nav-link' key={category} to={`/category/${category}`} >{category}
-              </Link>
+              <Link className='nav-link' key={category} to={`/category/${category}`} >{category}</Link>
             ))}
+            <Link className='nav-link' to="/nosotros">Nosotros</Link>
+            <Link className='nav-link' to="/contacto">Contacto</Link>
           </Nav>
           <CartWidget />
         </Container>

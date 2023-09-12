@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { solicitoProductos } from '../helpers/solicitoProductos';
 import ItemList from './ItemList';
 import { useParams } from 'react-router-dom';
-
+import Container from 'react-bootstrap/Container';
 
 export function ItemListContainer() {
 
@@ -27,8 +27,8 @@ export function ItemListContainer() {
 
 
     return (
-        <div>
+        <Container>
             <ItemList productos={productos} titulo={titulo} />
-        </div>
+        </Container>
     );
 }
