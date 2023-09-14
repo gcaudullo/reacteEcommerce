@@ -1,13 +1,18 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import carrito from "../assets/carrito.png"
+import { Link } from 'react-router-dom';
+import { CartContext } from '../context/CartContext';
 
-export function CartWidget (){
-    return(
-        //incluir un ícono y una notificación con un código hardcodeado
-        //Agregarlo adentro de NavBar y agregar estilos con bootstrap/materialize
+export function CartWidget() {
+
+    const { cantPrdEnCarrito } = useContext(CartContext);
+
+    return (
         <>
-        <img className='carrito' src={ carrito } alt="carrito" />
-        <span className='cantPRD'>0</span>
+            <Link className='nav-link' to="/carrito">
+                <img className='carrito' src={carrito} alt="carrito" />
+                <span className='cantPRD'>{cantPrdEnCarrito()}</span>
+            </Link>
         </>
     );
 }

@@ -76,14 +76,14 @@
   align-items: flex-start;
 }
 
-.formulario input{
+.formulario input, .formulario textarea{
   padding: 0.5rem;
   width: 18rem;
   border-radius: 0.5rem;
   border: 2px solid black;
 }
 
-.formulario input:focus {
+.formulario input:focus, .formulario textarea:focus {
   outline: 0;
   outline: 2px solid blueviolet;
 }

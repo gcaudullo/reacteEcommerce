@@ -7,7 +7,7 @@ import Container from 'react-bootstrap/Container';
 export function ItemListContainer() {
 
     const [productos, setProductos] = useState([]);
-    const [titulo, setTitulo] = useState("Productos");
+    const [titulo, setTitulo] = useState("Loading...");
     const categoria = useParams().id;
     console.log(categoria);
 
