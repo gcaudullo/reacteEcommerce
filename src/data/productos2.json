@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "nombre": "Apple Ipad 10 9 10th gen wifi 256Gb pink mpqc3ll",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/apple-ipad-10.webp?alt=media&token=9789bc80-db48-451d-86fc-e9564e3e8fae",
         "alt": "apple-ipad-10-9-10th-gen-wifi-256gb-pink-mpqc3ll",
@@ -9,7 +8,6 @@
         "stock": 10
     },
     {
-        "id": 2,
         "nombre": "Apple Watch se 2nd gen gps 44mm starlight temp sense",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/apple-watch.webp?alt=media&token=8faf0929-6794-4bcc-9f5b-81014361eb5c",
         "alt": "apple-watch-se-2nd-gen-gps-44mm-starlight",
@@ -18,7 +16,6 @@
         "stock": 10
     },
     {
-        "id": 3,
         "nombre": "Apple Watch series 8 gps 41mm midnigh temp sense",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/apple-watch-series-8.webp?alt=media&token=27127d02-3f54-48a0-8fd6-ed4d678541f1",
         "alt": "apple-watch-series-8-gps-41mm-midnight",
@@ -27,7 +24,6 @@
         "stock": 10
     },
     {
-        "id": 4,
         "nombre": "Cel Samsung Galaxy A04 sm a045mz ds 64Gb",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/cel-samsung-galaxy-a04.webp?alt=media&token=c6da6f24-a462-4711-9dd1-1aeba55352a7",
         "alt": "cel-samsung-galaxy-a04-sm-a045mz-ds-64gb",
@@ -36,7 +32,6 @@
         "stock": 10
     },
     {
-        "id": 5,
         "nombre": "Cel Samsung Galaxy A525 8Gb 256Gb",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/cel-samsung-galaxy-a525.webp?alt=media&token=c41c5cdd-ab99-4523-805f-72549b865297",
         "alt": "cel-samsung-galaxy-a525-8gb-256gb",
@@ -45,7 +40,6 @@
         "stock": 10
     },
     {
-        "id": 6,
         "nombre": "Celular Honor X6 color azul 4Gb 64Gb",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/celular-honor-x6.webp?alt=media&token=c9e09048-b529-4990-a4c3-26ac42cfdd7d",
         "alt": "celular-honor-x6-color-azul-4gb-64gb",
@@ -54,7 +48,6 @@
         "stock": 10
     },
     {
-        "id": 7,
         "nombre": "Celular Huawei Nova 9 128Gb 8Gb black",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/celular-huawei-nova-9.webp?alt=media&token=df11f379-2d35-4b73-a72d-867851df752d",
         "alt": "celular-huawei-nova-9-128gb-8gb-black",
@@ -63,7 +56,6 @@
         "stock": 10
     },
     {
-        "id": 8,
         "nombre": "Cel Moto E32 64Gb gris",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/moto-e32.webp?alt=media&token=673d25ca-6c55-42eb-9004-5e5e486c1134",
         "alt": "moto-e32-64-gb-gris",
@@ -72,7 +64,6 @@
         "stock": 10
     },
     {
-        "id": 9,
         "nombre": "Cel Samsung Galaxy S20 fe 5g dual sim 128 Gb",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/samsung-galaxy-s20.webp?alt=media&token=97a87548-6f94-4398-9112-fecf862b5bd8",
         "alt": "samsung-galaxy-s20-fe-5g-dual-sim-128-gb",
@@ -81,7 +72,6 @@
         "stock": 10
     },
     {
-        "id": 10,
         "nombre": "Tablet con funda Lenovo tab M7 3rd gen",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/tablet-con-funda-lenovo-tab-m7-.webp?alt=media&token=cd5fe9c6-2aae-40fb-aa6d-9b28aae73278",
         "alt": "tablet-con-funda-lenovo-tab-m7-3rd-gen",
@@ -90,7 +80,6 @@
         "stock": 10
     },
     {
-        "id": 11,
         "nombre": "Cel Xiaomi Redmi 10a dual sim 64Gb plata",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/xiaomi-redmi-10a-dual-sim.webp?alt=media&token=599b627d-9c11-480b-94fe-019570b4d131",
         "alt": "xiaomi-redmi-10a-dual-sim-64-gb-plata",
@@ -99,7 +88,6 @@
         "stock": 10
     },
     {
-        "id": 12,
         "nombre": "Cel Xiaomi Redmi 12c 128 4Gb camara dual 50mpx",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/xiaomi-redmi-12c-.jpg?alt=media&token=7d360472-68d6-48f8-92c5-92c01be31c72",
         "alt": "xiaomi-redmi-12c-128-4-gb-camara-dual-50-mpx-5000-mah",
@@ -108,7 +96,6 @@
         "stock": 10
     },
     {
-        "id": 13,
         "nombre": "Cel Xiaomi Redmi Note 11s 5g dual sim 128Gb 4Gb RAM",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/xiaomi-redmi-note-11s.webp?alt=media&token=6d934b14-dd8f-4700-aaae-ee3846c4430e",
         "alt": "xiaomi-redmi-note-11s-5g-dual-sim-128-gb-black-4-gb-ram",
@@ -117,7 +104,6 @@
         "stock": 10
     },
     {
-        "id": 14,
         "nombre": "Cafetera punktal PK 426",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/cafetera-punktal-pk-426.jpg?alt=media&token=ff75e251-6a8b-4bf4-a62b-6099e131e3ea",
         "alt": "cafetera-punktal-pk-426",
@@ -126,7 +112,6 @@
         "stock": 10
     },
     {
-        "id": 15,
         "nombre": "Cocina Punktal Agile Glass PK Gl5 a gas",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/cocina-punktal-agile-glass-pk-gl5.jpg?alt=media&token=e2d00073-5bfc-40f6-8581-87461b3ecdfe",
         "alt": "Cocina Punktal Agile Glass PK Gl5 a gas",
@@ -135,7 +120,6 @@
         "stock": 10
     },
     {
-        "id": 16,
         "nombre": "Cocina Punktal Coliseum PK 299c a gas 5 hornallas",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/cocina-punktal-coliseum-pk-299c.jpg?alt=media&token=ee478a1e-bf80-46de-a8b9-9721451dc678",
         "alt": "cocina-punktal-coliseum-pk-299c-gas-5-hornallas",
@@ -144,7 +128,6 @@
         "stock": 10
     },
     {
-        "id": 17,
         "nombre": "Cocina Punktal a gas inox",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/cocina-punktal-s-gas-inox-gl44inox.jpg?alt=media&token=747eb91c-5984-4705-95d4-6dd44630e84e",
         "alt": "cocina-punktal-s-gas-inox",
@@ -153,7 +136,6 @@
         "stock": 10
     },
     {
-        "id": 18,
         "nombre": "Freidora Enxuta sadenxfsa1116",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/freidora-enxuta-sadenxfsa1116.jpg?alt=media&token=8a0ad5e1-fdcc-48aa-8288-2925129a5684",
         "alt": "freidora-enxuta-sadenxfsa1116",
@@ -162,7 +144,6 @@
         "stock": 10
     },
     {
-        "id": 19,
         "nombre": "Freidora sin aceite Midea 12lt mf cy120a",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/freidora-sin-aceite-midea-12lt.jpg?alt=media&token=8bc1d49f-0c75-4b47-92d7-36978c026361",
         "alt": "freidora-sin-aceite-midea-12lt-mf-cy120a",
@@ -171,7 +152,6 @@
         "stock": 10
     },
     {
-        "id": 20,
         "nombre": "Heladera inverter LG-GS66spp",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/heladera-inverter-lg-gs66spp-.jpg?alt=media&token=c1c56b3b-2636-41c3-bb5c-837b600ddce0",
         "alt": "heladera-inverter-lg-gs66spp",
@@ -180,7 +160,6 @@
         "stock": 10
     },
     {
-        "id": 21,
         "nombre": "Heladera inverter no frost Samsung top mount RT48a6684",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/heladera-inverter-no-frost-samsung-top-mount-rt48a6684.jpg?alt=media&token=8b001bb1-c45e-4606-b3ad-17ba320dc199",
         "alt": "heladera-inverter-no-frost-samsung-top-mount-rt48a6684",
@@ -189,7 +168,6 @@
         "stock": 10
     },
     {
-        "id": 22,
         "nombre": "Jarra Electrica Enxuta sdaenxj5151",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/jarra-electrica-enxuta-sdaenxj5151-.jpg?alt=media&token=78188cbb-a797-4e24-b7f3-859968b4aa16",
         "alt": "jarra-electrica-enxuta-sdaenxj5151",
@@ -198,7 +176,6 @@
         "stock": 10
     },
     {
-        "id": 23,
         "nombre": "Lavarropas LG 19kgs carga superior wt19bsb",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/lavarropas-lg-19-kgs-.jpg?alt=media&token=4228950f-eb1c-4019-ab93-1013534ab049",
         "alt": "lavarropas-lg-19-kgs-carga-superior-wt19bsb",
@@ -207,7 +184,6 @@
         "stock": 10
     },
     {
-        "id": 24,
         "nombre": "Microondas Enxuta moenx0325dg",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/microondas-enxuta-moenx0325dg.jpg?alt=media&token=22a92d0e-4b10-497e-bae6-92cfdbac5660",
         "alt": "microondas-enxuta-moenx0325dg",
@@ -216,7 +192,6 @@
         "stock": 10
     },
     {
-        "id": 25,
         "nombre": "Microondas Grill Enxuta moenx0323dgi acero inox",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/microondas-grill-enxuta-moenx0323dgi-.jpg?alt=media&token=cd8dbe8b-c911-4798-9fb1-d7098830ec90",
         "alt": "microondas-grill-enxuta-moenx0323dgi-acero-inox",
@@ -225,7 +200,6 @@
         "stock": 10
     },
     {
-        "id": 26,
         "nombre": "Microondas Midea 20l espejado mmdv07s2dg",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/microondas-midea-20l-.jpg?alt=media&token=be104a45-7ea9-435e-be5e-2e6b47266a43",
         "alt": "microondas-midea-20l-espejado-mmdv07s2dg",
@@ -234,7 +208,6 @@
         "stock": 10
     },
     {
-        "id": 27,
         "nombre": "Philips jarra electrica hd9318",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/philips-jarra-electrica-hd9318-.jpg?alt=media&token=618495df-ac3b-4626-b490-e2ff85e5a0e7",
         "alt": "philips-jarra-electrica-hd9318",
@@ -243,7 +216,6 @@
         "stock": 10
     },
     {
-        "id": 28,
         "nombre": "Plancha a vapor Enxuta sdaenxp284",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/plancha-a-vapor-enxuta-sdaenxp284-.jpg?alt=media&token=b36a06e8-a4dd-4782-a6ce-e3a9609a6e5d",
         "alt": "plancha-a-vapor-enxuta-sdaenxp284",
@@ -252,7 +224,6 @@
         "stock": 10
     },
     {
-        "id": 29,
         "nombre": "Refrigerador Enxuta renx24280fhs",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/refrigerador-enxuta-renx24280fhs-.webp?alt=media&token=2f105729-3677-407f-9b66-1abd814cc218",
         "alt": "refrigerador-enxuta-renx24280fhs",
@@ -261,7 +232,6 @@
         "stock": 10
     },
     {
-        "id": 30,
         "nombre": "Samsung refrigerador frio seco 430 lts RT44a6640b1",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/samsung-refrigerador-frio-seco-430-lts-rt44a6640b1-.jpg?alt=media&token=869aca5c-822f-4a85-aeb4-533fcb36cc2e",
         "alt": "samsung-refrigerador-frio-seco-430-lts-rt44a6640b1",
@@ -270,7 +240,6 @@
         "stock": 10
     },
     {
-        "id": 31,
         "nombre": "Termotanque Enxuta 25 litros",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/termotanque-enxuta-25-litros-tenx1025-.jpg?alt=media&token=e2e7f397-d377-4649-a279-6054b9650e28",
         "alt": "termotanque-enxuta-25-litros",
@@ -279,7 +248,6 @@
         "stock": 10
     },
     {
-        "id": 32,
         "nombre": "Apple Macbook air 13' m2 8gb RAM 256gb SSD silver",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/apple-macbook-air-13-6-m2.jpg?alt=media&token=4a940e41-8296-4072-9b3e-f273ef18edf7",
         "alt": "apple-macbook-air-13-6-m2-8gb-256gb-silver",
@@ -288,7 +256,6 @@
         "stock": 10
     },
     {
-        "id": 33,
         "nombre": "Apple Macbook air 13' m2 8gb RAM 256gb SSD Gris",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/apple-macbook-air-13.jpg?alt=media&token=d1bb51ed-4e34-449b-aa0d-0151140ecb67",
         "alt": "apple-macbook-air-13-6-m2-8gb-256gb-sp-gray",
@@ -297,7 +264,6 @@
         "stock": 10
     },
     {
-        "id": 34,
         "nombre": "ASUS Vivobook m513ia bq322t",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/asus-vivobook-m513ia.jpg?alt=media&token=74c7e208-3b68-4fb1-836e-4bb4c235aad8",
         "alt": "asus-vivobook-m513ia",
@@ -306,7 +272,6 @@
         "stock": 10
     },
     {
-        "id": 35,
         "nombre": "Gateway Ultra Slim gwtn141 FHD Core i3 6GB RAM 128GB SSD Win10 Blue",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/gateway-ultra-slim-gwtn141-.jpg?alt=media&token=81e07ca8-8548-4507-9195-52bcb1d6c262",
         "alt": "gateway-ultra-slim-gwtn141-6bl-14-1-fhd-i3-4gb-128gb-w10-blue",
@@ -315,7 +280,6 @@
         "stock": 10
     },
     {
-        "id": 36,
         "nombre": "HP-14\" dq2088wm HD Core i5 8GB RAM 256GB SSD Win10Home",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/hp-14-dq2088wm-14-.jpg?alt=media&token=5ea04ffa-5bbf-4ad9-986a-d22d85fa127c",
         "alt": "hp-14-dq2088wm-14-hd-i5-8gb-256gb-ssd-w10h",
@@ -324,7 +288,6 @@
         "stock": 10
     },
     {
-        "id": 37,
         "nombre": "HP-14\" dq2088wm HD Core i3 8GB RAM 256GB SSD Win10",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/hp-14-dq2089wm-14-.jpg?alt=media&token=891e47d5-a033-451e-ac27-8c2c3d93d647",
         "alt": "hp-14-dq2089wm-14-hd-i3-8gb-256gb-ssd-w10-camo-refurbished",
@@ -333,7 +296,6 @@
         "stock": 10
     },
     {
-        "id": 38,
         "nombre": "HP-15\" dy2061ms FHD Core i5 12GB RAM 256GB SSD Win11",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/hp-14-dq2089wm-14-.jpg?alt=media&token=891e47d5-a033-451e-ac27-8c2c3d93d647g",
         "alt": "hp-15-dy2061ms-15-6-i5-12gb-256gb-ssd-w11",
@@ -342,7 +304,6 @@
         "stock": 10
     },
     {
-        "id": 39,
         "nombre": "Lenovo 15\" FHD Core i5 8GB RAM 512GB SSD Win10h",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/lenovo-ip-1-14igl7-14-hd-n5030.jpg?alt=media&token=8e629301-5056-4750-9fa4-f46935ab3348",
         "alt": "lenovo-ip-1-14igl7-14-hd-n5030-4gb-128gb-emmc-w11",
@@ -351,7 +312,6 @@
         "stock": 10
     },
     {
-        "id": 40,
         "nombre": "Apple Macbook PRO 13\" m2 8gb RAM 256gb SSD",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/macbook-pro-13-3-.jpg?alt=media&token=0bff6eb8-746e-4d79-9cbc-6fca94975426",
         "alt": "macbook-pro-13-3-retina-apple-m2-256-gb-ssd-8-gb",
@@ -360,7 +320,6 @@
         "stock": 10
     },
     {
-        "id": 41,
         "nombre": "ASUS 14\" m2 FHD Core i3 4gb RAM 128gb SSD Win10",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/notebook-asus-14-fhd.jpg?alt=media&token=a4f59bf8-6572-4eef-9b30-38d36ba31285",
         "alt": "notebook-asus-14-core-i3-128-gb-ssd-4-gb-ram-windows",
@@ -369,7 +328,6 @@
         "stock": 10
     },
     {
-        "id": 42,
         "nombre": "ASUS 14\" m2 FHD 8gb RAM 128gb SSD Win10",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/notebook-asus-14.jpg?alt=media&token=58d551ed-5365-4171-b9de-c177100f7eb3",
         "alt": "notebook-asus-14-fhd-i3-128-gb-ssd-8-gb-ram-windows-10",
@@ -378,7 +336,6 @@
         "stock": 10
     },
     {
-        "id": 43,
         "nombre": "ASUS 15\" m2 OLED Core i5 8gb RAM 256gb SSD Win10",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/notebook-asus-15-6-pantalla-oled.jpg?alt=media&token=d535e401-2f7c-4ddd-aeac-f0bcd168e5b0",
         "alt": "notebook-asus-15-6-pantalla-oled-i5-256gb-ssd-8-gb-ram-k513ea",
@@ -387,7 +344,6 @@
         "stock": 10
     },
     {
-        "id": 44,
         "nombre": "DELL 15\" m2 FHD Core i5 8gb RAM 256gb SSD Win10",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/notebook-dell-15-6.jpg?alt=media&token=ae96593e-27d6-4ad5-aee0-bdde89603af2",
         "alt": "notebook-dell-15-6-fhd-ryzen-5-256gb-ssd-8gb-windows-10",
@@ -396,7 +352,6 @@
         "stock": 10
     },
     {
-        "id": 45,
         "nombre": "Gateway 15\" FHD Ryzen 7 8GB RAM 512GB SSD Win11 (Blue)",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/notebook-gateway-15-6-.jpg?alt=media&token=cb63d1c0-a442-4d17-ae23-f8d2c9de036b",
         "alt": "notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11-blue",
@@ -405,7 +360,6 @@
         "stock": 10
     },
     {
-        "id": 46,
         "nombre": "Gateway 15\" FHD Ryzen 7 8GB RAM 512GB SSD Win11",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/notebook-gateway-15-6-ryzen-7-512.jpg?alt=media&token=926c6552-ea10-4ac1-a661-5a03b42279d6",
         "alt": "notebook-gateway-15-6-ryzen-7-512-gb-ssd-8-gb-ram-w11",
@@ -414,7 +368,6 @@
         "stock": 10
     },
     {
-        "id": 47,
         "nombre": "Lenovo 15\" FHD Core i5 8GB RAM 512GB SSD Win10h",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/notebook-lenovo-ip-3-15itl6-.jpg?alt=media&token=907ab01d-aac5-419c-b586-fcee1a3e427b",
         "alt": "notebook-lenovo-ip-3-15itl6-i3-1115g4-8gb-512gb-w10h",
@@ -423,7 +376,6 @@
         "stock": 10
     },
     {
-        "id": 48,
         "nombre": "Lenovo 15\" FHD Core i5 16GB RAM 256GB SSD Win11",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/notebook-lenovo-ip-5-15itl05.jpg?alt=media&token=f8163b2b-9024-421f-acb9-bed83f885d58",
         "alt": "notebook-lenovo-ip-5-15itl05-i5-1135g7-16gb-256gb-mx450",
@@ -432,7 +384,6 @@
         "stock": 10
     },
     {
-        "id": 49,
         "nombre": "Amazon Echo Dot 5th gen con asistente virtual alexa charcoal",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/amazon-echo-dot-5th-gen-.jpg?alt=media&token=781b2c49-d081-43a6-b917-f9231d89839e",
         "alt": "amazon-echo-dot-5th-gen-con-asistente-virtual-alexa-charcoal-110v-240v",
@@ -441,7 +392,6 @@
         "stock": 10
     },
     {
-        "id": 50,
         "nombre": "Barra de Sonido lg sp2 barra de sonido lg sp2",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/barra-de-sonido-lg-sp2.jpg?alt=media&token=cd5e774d-d204-45aa-a817-9bf78a02c443",
         "alt": "barra-de-sonido-lg-sp2-barra-de-sonido-lg-sp2",
@@ -450,7 +400,6 @@
         "stock": 10
     },
     {
-        "id": 51,
         "nombre": "Enxuta smart tv 24\" ledenx1224d1k",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/enxuta-smart-tv-24-ledenx1224d1k-.jpg?alt=media&token=d1f77687-0cb5-4378-972e-a8ec400a301d",
         "alt": "enxuta-smart-tv-24-ledenx1224d1k",
@@ -459,7 +408,6 @@
         "stock": 10
     },
     {
-        "id": 52,
         "nombre": "JBL wave 300 tws headphone truly wireless black",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/jbl-wave-300-.jpg?alt=media&token=39f7f2a9-6a26-4513-a2b9-f5cd7b730984",
         "alt": "jbl-wave-300-tws-headphone",
@@ -468,7 +416,6 @@
         "stock": 10
     },
     {
-        "id": 53,
         "nombre": "Minicomponente LG Cl88",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/minicomponente-lg-cl88-.jpg?alt=media&token=532934b9-afc1-4cfa-92ad-5a2aed77d321",
         "alt": "minicomponente-lg-cl88-minicomponente-lg-cl88",
@@ -477,7 +424,6 @@
         "stock": 10
     },
     {
-        "id": 54,
         "nombre": "Minicomponente LG Xboom Cl65",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/minicomponente-lg-xboom-cl65-.jpg?alt=media&token=792005d4-5ccd-48fc-ab53-55c7bd008405",
         "alt": "minicomponente-lg-xboom-cl65n",
@@ -486,7 +432,6 @@
         "stock": 10
     },
     {
-        "id": 55,
         "nombre": "Nintendo Switch Oled 64gb",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/nintendo-switch-oled-64gb-.jpg?alt=media&token=7cddf710-fbe6-4c90-91ac-674a5b8aa539",
         "alt": "nintendo-switch-oled-64gb",
@@ -495,7 +440,6 @@
         "stock": 10
     },
     {
-        "id": 56,
         "nombre": "Parlante JBL flip 6 portatil bluetooth potencia 20w",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/parlante-jbl-flip-6-portatil-.jpg?alt=media&token=3e75c455-97d4-4899-9112-db4875fc76bb",
         "alt": "parlante-jbl-flip-6-portatil-bluetooth-potencia-20w",
@@ -504,7 +448,6 @@
         "stock": 10
     },
     {
-        "id": 57,
         "nombre": "Smart TV led Xiaomi l32m6 6a android tv",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/smart-tv-led-xiaomi-l32m6-6a.jpg?alt=media&token=5241589e-6ad6-43ac-8755-f4c3003eb334",
         "alt": "smart-tv-led-xiaomi-l32m6-6a-android-tv",
@@ -513,7 +456,6 @@
         "stock": 10
     },
     {
-        "id": 58,
         "nombre": "Smart TV LG 42\" oled oled42c2psa",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/smart-tv-lg-42-oled-oled42c2psa.jpg?alt=media&token=356fc7ea-fa2a-4c79-962f-1582ec422e58",
         "alt": "smart-tv-lg-42-oled-oled42c2psa",
@@ -522,7 +464,6 @@
         "stock": 10
     },
     {
-        "id": 59,
         "nombre": "Smart TV LG 55\" oled oled55c2psa",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/smart-tv-lg-55-oled55a2psa.jpg?alt=media&token=1fe5b947-57f3-4c15-9c05-e2b3d20ef2ff",
         "alt": "smart-tv-lg-55-oled-oled55c2psa",
@@ -531,7 +472,6 @@
         "stock": 10
     },
     {
-        "id": 60,
         "nombre": "Smart TV LG AI thinq 50nano75spa led 4k 50\"",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/smart-tv-lg-ai-thinq-50nano75spa-.jpg?alt=media&token=a8db6338-359d-4790-bb19-1ee455b737c2",
         "alt": "smart-tv-lg-ai-thinq-50nano75spa-led-4k-50",
@@ -540,7 +480,6 @@
         "stock": 10
     },
     {
-        "id": 61,
         "nombre": "Smart TV Samsung 43\" 4k UHD un43bu80000",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/smart-tv-samsung-43-4k-uhd.jpg?alt=media&token=f002f820-7aa5-4c31-bffd-f2c1f915d537",
         "alt": "smart-tv-samsung-43-4k-uhd",
@@ -549,7 +488,6 @@
         "stock": 10
     },
     {
-        "id": 62,
         "nombre": "Smart TV Samsung 65\" 4k UHD led un65bu80000",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/smart-tv-samsung-crystal-uhd-un65bu8000gxzd-.jpg?alt=media&token=cc595769-fc6f-4c54-abae-f44d739ccee4",
         "alt": "smart-tv-samsung-crystal-uhd-un65bu8000gxzd-led-4k-65",
@@ -558,7 +496,6 @@
         "stock": 10
     },
     {
-        "id": 63,
         "nombre": "Smart TV Xiaomi mi 50\" led 4k",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/smart-tv-xiaomi-mi-tv-p1-50.jpg?alt=media&token=03ea53de-884a-409e-9388-acb13206fdbb",
         "alt": "smart-tv-xiaomi-mi-tv-p1-50-led-4k",
@@ -567,7 +504,6 @@
         "stock": 10
     },
     {
-        "id": 64,
         "nombre": "Sony Playstation 5 825Gb FIFA 23 bundle color blanco y negro",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/sony-playstation-5.jpg?alt=media&token=366aeac6-31b9-4a76-a756-5561dd963821",
         "alt": "sony-playstation-5-825gb-fifa-23-bundle-color-blanco-y-negro",
@@ -576,7 +512,6 @@
         "stock": 10
     },
     {
-        "id": 65,
         "nombre": "Xiaomi TV 65\"",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/okcomputers-12a2c.appspot.com/o/xiaomi-tv-p1e-65.jpg?alt=media&token=a7d7ada6-f62c-42f9-b3e7-2fc926709b09",
         "alt": "xiaomi-tv-p1e-65-lm",
