@@ -9,7 +9,7 @@ import data from "../data/productos.json"
 
 const categories = data.map(item => item.categoria)
 const uniqueCategories = new Set(categories)
-console.log([...uniqueCategories])
+// console.log([...uniqueCategories])
 
 
 

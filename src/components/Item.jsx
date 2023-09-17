@@ -3,8 +3,7 @@ import { Link } from 'react-router-dom';
 
 
 const Item = ({ producto }) => {
-  console.log(producto.imagen)
-    return (
+  return (
         <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src={producto.imagen} alt={producto.alt}  />
         <Card.Body>
