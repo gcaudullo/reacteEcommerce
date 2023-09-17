@@ -9,7 +9,7 @@ export function ItemListContainer() {
     const [productos, setProductos] = useState([]);
     const [titulo, setTitulo] = useState("Loading...");
     const categoria = useParams().id;
-    console.log(categoria);
+   
 
     useEffect(() => {
         solicitoProductos()
