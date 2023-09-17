@@ -6,7 +6,7 @@ import { CartContext } from '../context/CartContext';
 
 const ItemDetail = ({ item }) => {
 
-  const { carrito, agregarAlCarrito } = useContext(CartContext);
+  const { agregarAlCarrito } = useContext(CartContext);
 
 
   const [count, setCount] = useState(1)
@@ -28,6 +28,9 @@ const ItemDetail = ({ item }) => {
       <Card.Img variant="top" src={item.imagen} alt={item.alt} />
       <Card.Body >
         <Card.Title >{item.nombre}</Card.Title>
+        <Card.Text >
+          {item.descripcion}
+        </Card.Text>
         <Card.Text >
           Categoría: {item.categoria}
         </Card.Text>

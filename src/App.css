@@ -1,33 +1,33 @@
-.carrito{
+.carrito {
   filter: brightness(1.1);
   mix-blend-mode: multiply;
   height: 3.5rem;
 }
 
-.cantPRD{
+.cantPRD {
   font-size: medium;
   padding-left: 1rem;
 }
 
-.logo{
+.logo {
   height: 4rem;
   border-radius: 2rem;
 }
 
-.ItemListContainer{
+.ItemListContainer {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
 .ItemListTitle {
-  margin-bottom: 10px; 
+  margin-bottom: 10px;
 }
 
 .ItemContainer {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px; 
+  gap: 20px;
 }
 
 .item-count {
@@ -37,7 +37,11 @@
   margin-top: 1rem;
 }
 
-.item-count button, .agregar-al-carrito, .enviar {
+.item-count button,
+.agregar-al-carrito,
+.enviar,
+.vaciar,
+.finalizar-compra {
   background-color: blueviolet;
   border: 0;
   width: 2rem;
@@ -55,13 +59,18 @@
   transition: 0.2s;
 }
 
-.item-count button:hover,  .agregar-al-carrito:hover, .enviar:hover {
+.item-count button:hover,
+.agregar-al-carrito:hover,
+.enviar:hover {
   background-color: white;
   color: black;
   border: 2px solid black;
 }
 
-.agregar-al-carrito, .enviar {
+.agregar-al-carrito,
+.enviar,
+.vaciar, 
+.finalizar-compra {
   width: auto;
   height: auto;
   margin-top: 1rem;
@@ -76,14 +85,36 @@
   align-items: flex-start;
 }
 
-.formulario input, .formulario textarea{
+.formulario input,
+.formulario textarea {
   padding: 0.5rem;
   width: 18rem;
   border-radius: 0.5rem;
   border: 2px solid black;
 }
 
-.formulario input:focus, .formulario textarea:focus {
+.formulario input:focus,
+.formulario textarea:focus {
   outline: 0;
   outline: 2px solid blueviolet;
+}
+
+.map-productos {
+  display: flex;
+  flex-direction: row;
+  background-color: aqua;
+  border-radius: 1rem;
+  padding: 2 rem;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  
+}
+
+.botones-total{
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 2 rem;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  
 }
