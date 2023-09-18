@@ -2,6 +2,8 @@ import Card from 'react-bootstrap/Card';
 import ItemCount from "./ItemCount"
 import React, { useContext, useState } from 'react'
 import { CartContext } from '../context/CartContext';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 const ItemDetail = ({ item }) => {
@@ -24,8 +26,8 @@ const ItemDetail = ({ item }) => {
 
 
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={item.imagen} alt={item.alt} />
+    <Card style={{ width: '30rem', alignItems: 'center'}}>
+      <Card.Img style={{ width: '18rem' }} variant="top" src={item.imagen} alt={item.alt} />
       <Card.Body >
         <Card.Title >{item.nombre}</Card.Title>
         <Card.Text >
@@ -44,7 +46,9 @@ const ItemDetail = ({ item }) => {
           handleAgregar={() => { agregarAlCarrito(item, count) }}
         />
       </Card.Body>
+      <ToastContainer />
     </Card>
+    
   )
 }
 
