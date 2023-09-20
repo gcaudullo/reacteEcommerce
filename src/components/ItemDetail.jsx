@@ -23,7 +23,9 @@ const ItemDetail = ({ item }) => {
       setCount(prev => prev + 1);
     }
   };
-
+  if (!item.nombre){
+    return(<p>Producto no existente en nuestra base de Datos, verifique Id de Producto</p>)
+  }
 
   return (
     <Card style={{ width: '30rem', alignItems: 'center'}}>

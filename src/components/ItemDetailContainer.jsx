@@ -19,9 +19,7 @@ const ItemDetailContainer = () => {
         })
     }, [id])
     
-
-
-
+   
     return (
         <Container>
             <h1>Detalle</h1>

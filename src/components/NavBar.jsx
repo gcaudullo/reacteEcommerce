@@ -2,6 +2,7 @@ import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+import NavDropdown from 'react-bootstrap/NavDropdown';
 import { CartWidget } from './CartWidget';
 import logo from "../assets/Logo.png"
 import { Link } from 'react-router-dom';
@@ -19,9 +20,11 @@ export const NavBar = () => (
           <Link className='nav-link' to="/"> <img className='logo' src={ logo } alt="carrito" /></Link>
           <Nav className="me-auto">
             <Link className='nav-link' to="/">Inicio</Link>
+            <NavDropdown title="Categorias">
             {[...uniqueCategories].map(category => (
-              <Link className='nav-link' key={category} to={`/category/${category}`} >{category}</Link>
+              <NavDropdown.Item><Link className='nav-link' key={category} to={`/category/${category}`} >{category}</Link></NavDropdown.Item>
             ))}
+            </NavDropdown>
             <Link className='nav-link' to="/nosotros">Nosotros</Link>
             <Link className='nav-link' to="/contacto">Contacto</Link>
           </Nav>
