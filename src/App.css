@@ -5,8 +5,13 @@
 }
 
 .cantPRD {
-  font-size: medium;
+  font-size: 1.5rem;
   padding-left: 1rem;
+  font-weight: bold;
+  background-color: white;
+  margin: auto;
+  border-radius: 1rem;
+  text-align: center;
 }
 
 .logo {

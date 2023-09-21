@@ -17,7 +17,7 @@ const uniqueCategories = new Set(categories)
 export const NavBar = () => (
         <Navbar bg="primary" data-bs-theme="dark">
         <Container>
-          <Link className='nav-link' to="/"> <img className='logo' src={ logo } alt="carrito" /></Link>
+          <Link className='nav-link' to="/"> <img className='logo' src={ logo } alt="logo" /></Link>
           <Nav className="me-auto">
             <Link className='nav-link' to="/">Inicio</Link>
             <NavDropdown title="Categorias">
