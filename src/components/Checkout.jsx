@@ -26,12 +26,15 @@ const Checkout = () => {
             alert('El teléfono es obligatorio.');
             return;
         }
+
         const pedido = {
             cliente: data,
             productos: carrito,
             total: totalCarrito()
         }
+
         const pedidosRef = collection(db, "pedidos");
+        
         addDoc(pedidosRef, pedido)
             .then((doc) => {
                 setPedidoId(doc.id)
