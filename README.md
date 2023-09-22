@@ -56,6 +56,15 @@ Página que muestra el contenido del carrito de compras y permite a los usuarios
 
 Componente que muestra un carrusel de imágenes en la página de Nosotros, resaltando el equipo de OK-Computers, y los productos destacados.
 
+## Dependencias
+
+Esta aplicación utiliza las siguientes dependencias de React que no fueron vistas en clase:
+
+- **react-hook-form** (Versión 7.46.1): Una biblioteca que facilita la gestión de formularios en React, permitiendo la validación y manipulación de datos de forma eficiente.
+
+- **react-toastify** (Versión 9.1.3): Una biblioteca que proporciona notificaciones visuales para el usuario, útil para mostrar mensajes de éxito, error u otra información importante de manera elegante.
+
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local.
