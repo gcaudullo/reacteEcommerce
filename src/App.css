@@ -11,7 +11,7 @@
   background-color: white;
   margin: auto;
   border-radius: 1rem;
-  text-align: center;
+  padding-right: 0.9rem;
 }
 
 .logo {
@@ -46,7 +46,8 @@
 .agregar-al-carrito,
 .enviar,
 .vaciar,
-.finalizar-compra {
+.finalizar-compra,
+.login {
   background-color: blueviolet;
   border: 0;
   width: 2rem;
@@ -69,10 +70,15 @@
 .agregar-al-carrito:hover,
 .enviar:hover
 .vaciar:hover,
-.finalizar-compra:hover {
+.finalizar-compra:hover,
+.login:hover {
   background-color: white;
   color: black;
   border: 2px solid black;
+}
+
+.login{
+  width: auto;
 }
 
 .agregar-al-carrito,
@@ -178,4 +184,17 @@
 
 .img-carousel{
   height:50vh;
+}
+
+.auth-formulario{
+  display: flex;
+  flex-direction: row;
+}
+
+.auth-formulario input
+{
+  width: 10rem;
+  border-radius: 0.5rem;
+  border: 2px solid black;
+  margin-right: 0.25rem;
 }

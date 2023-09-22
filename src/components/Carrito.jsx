@@ -3,6 +3,7 @@ import { Container } from 'react-bootstrap'
 import { CartContext } from '../context/CartContext'
 import { Link } from 'react-router-dom'
 
+
 const Carrito = () => {
     const { carrito, totalCarrito, vaciarCarrito } = useContext(CartContext)
 

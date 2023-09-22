@@ -10,9 +10,9 @@ const ItemCount = ({ count, handleDecreaseCount, handleIncreaseCount, handleAgre
                 <button onClick={handleIncreaseCount}>+</button>
             </div>
             <button className='agregar-al-carrito' onClick={handleAgregar}>Agregar al Carrito</button>
-            {/* <Link to={`/Item/${producto.id}`}></Link> */}
         </>
     )
 }
 
 export default ItemCount
+
