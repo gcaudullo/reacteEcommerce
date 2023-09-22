@@ -15,3 +15,4 @@ const ItemCount = ({ count, handleDecreaseCount, handleIncreaseCount, handleAgre
 }
 
 export default ItemCount
+

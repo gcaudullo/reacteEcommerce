@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+# README - Aplicación OK-Computers, E-commerce en React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta es una aplicación de comercio electrónico desarrollada en React que ofrece una variedad de componentes para crear una experiencia de compra en línea. A continuación, se describen los principales componentes de la aplicación:
 
-## Available Scripts
+## Componentes Principales
 
-In the project directory, you can run:
+### `Nosotros.jsx`
 
-### `npm start`
+Página que muestra información sobre la empresa y su historia.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### `NavBar.jsx`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Barra de navegación que permite a los usuarios acceder a diferentes secciones de la tienda, como el catálogo de productos por categoría, el carrito de compras y la página de Nosotros y Contacto.
 
-### `npm test`
+### `ItemListContainer.jsx`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contenedor que muestra una lista de productos disponibles en la tienda.
 
-### `npm run build`
+### `ItemList.jsx`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Componente que muestra una lista de productos individualmente.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `ItemDetailContainer.jsx`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contenedor que muestra detalles específicos de un producto seleccionado.
 
-### `npm run eject`
+### `ItemDetail.jsx`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Componente que muestra información detallada de un producto.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `ItemCount.jsx`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Componente que permite a los usuarios seleccionar la cantidad de un producto que desean comprar.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### `Item.jsx`
 
-## Learn More
+Componente que representa un artículo en la lista de productos.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### `Contacto.jsx`
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Página que proporciona información de contacto y un formulario para que los usuarios se comuniquen con la empresa.
 
-### Code Splitting
+### `CheckOut.jsx`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Página que muestra el resumen de la compra y permite a los usuarios realizar el pago.
 
-### Analyzing the Bundle Size
+### `CartWidget.jsx`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Widget que muestra la cantidad de productos en el carrito de compras en la barra de navegación.
 
-### Making a Progressive Web App
+### `Carrito.jsx`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Página que muestra el contenido del carrito de compras y permite a los usuarios gestionar sus productos antes de finalizar la compra.
 
-### Advanced Configuration
+### `Carousels.jsx`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Componente que muestra un carrusel de imágenes en la página de Nosotros, resaltando el equipo de OK-Computers, y los productos destacados.
 
-### Deployment
+## Dependencias
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Esta aplicación utiliza las siguientes dependencias de React que no fueron vistas en clase:
 
-### `npm run build` fails to minify
+- **react-hook-form** (Versión 7.46.1): Una biblioteca que facilita la gestión de formularios en React, permitiendo la validación y manipulación de datos de forma eficiente.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **react-toastify** (Versión 9.1.3): Una biblioteca que proporciona notificaciones visuales para el usuario, útil para mostrar mensajes de éxito, error u otra información importante de manera elegante.
+
+
+## Instalación
+
+1. Clona este repositorio en tu máquina local.
+2. Abre una terminal en la carpeta del proyecto.
+3. Ejecuta `npm install` para instalar las dependencias.
+
+## Uso
+
+1. Ejecuta `npm start` para iniciar la aplicación en modo de desarrollo.
+2. Abre tu navegador y ve a `http://localhost:3000` para ver la aplicación.
+
+

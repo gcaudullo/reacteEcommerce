@@ -1,4 +1,6 @@
 import { createContext, useState } from "react";
+import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 export const CartContext = createContext();
@@ -11,6 +13,17 @@ export const CartProvider = ({ children }) => {
         const itemAgregado = { ...item, count };
         const nuevoCarrito = [...carrito];
         const estaEnElCarrito = nuevoCarrito.find((producto) => producto.id === itemAgregado.id)
+
+        toast('Producto agregado al carrito!', {
+            position: "top-right",
+            autoClose: 3000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "dark",
+            });
 
         if (estaEnElCarrito) {
             estaEnElCarrito.count = estaEnElCarrito.count + count;
@@ -32,12 +45,28 @@ export const CartProvider = ({ children }) => {
         setCarrito([])
     }
 
+    const eliminarDelCarrito = (productoId) => {
+        const nuevoCarrito = carrito.filter((producto) => producto.id !== productoId);
+        setCarrito(nuevoCarrito);
+        toast('Producto eliminado del carrito', {
+            position: "top-right",
+            autoClose: 3000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: true,
+            draggable: true,
+            progress: undefined,
+            theme: "dark",
+        });
+    };
+
     return (< CartContext.Provider value={{
         carrito,
         agregarAlCarrito,
         cantPrdEnCarrito,
         totalCarrito,
-        vaciarCarrito
+        vaciarCarrito,
+        eliminarDelCarrito
     }}>
         {children}
     </CartContext.Provider>)
